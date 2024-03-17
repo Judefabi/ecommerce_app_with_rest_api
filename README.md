@@ -6,8 +6,9 @@
 
   <h3 align="center">Ecommerce app</h3>
 
+
+We have recently completed the transformation of [an ecommerce app](https://www.chupachap.co.ke) platform for ordering alcoholic drinks, from a WordPress website using WooCommerce to a React application, a move that will make it more robust and help the business owners to better manage their stock while improving the overall user experience. The application is built on top of a REST API and as the frontend developer for this role, I was tasked to replicate the existing [website design](https://www.chupachap.co.ke) and user experience in React. The application allows users to shop, place their orders, and make payments via MPESA or on delivery.
   <p align="center">
-    We have recently completed the transformation of [an ecommerce app](https://www.chupachap.co.ke) platform for ordering alcoholic drinks, from a WordPress website using WooCommerce to a React application, a move that will make it more robust and help the business owners to better manage their stock while improving the overall user experience. The application is built on top of a REST API and as the frontend developer for this role, I was tasked to replicate the existing [website design](https://www.chupachap.co.ke) and user experience in React. The application allows users to shop, place their orders, and make payments via MPESA or on delivery.
     <br/>
     <br/>
     <a href="https://github.com/Judefabi/ecommerce_app_with_rest_api"><strong>View Demo »</strong></a>
